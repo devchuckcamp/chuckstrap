@@ -1,0 +1,22 @@
+{
+  "name": "chuckstrap",
+  "version": "1.1.1",
+  "description": "A bootstrap Class extension for building your custom themes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:devchuckcamp/chuckstrap.git"
+  },
+  "keywords": [
+    "bootstrap, css"
+  ],
+  "author": "Santiago Granada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devchuckcamp/chuckstrap/issues"
+  },
+  "homepage": "https://github.com/devchuckcamp/chuckstrap#readme"
+}
