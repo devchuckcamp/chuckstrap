@@ -18,8 +18,21 @@
   width: 100%!important;
   max-width: 100%!important;
 }
-
-
+/*
+  Vertical Align
+*/
+.v-align-mid{
+  vertical-align: middle;
+}
+.v-align-base{
+  vertical-align: baseline;
+}
+.v-align-bot{
+  vertical-align: bottom;
+}
+.v-align-t-bottom{
+  vertical-align: text-bottom;
+}
 /*
   Horizontal Align
 */
